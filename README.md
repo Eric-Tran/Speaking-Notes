@@ -7,4 +7,5 @@ iOS Swift<br>
 iOS SpeechKit<br>
 iOS AVFoundation<br>
 Google Tessaract OCR Character Recognition Library
+Data Persistence
 
